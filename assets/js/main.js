@@ -9,6 +9,7 @@ let app = new Vue ({
 
   data: {
     msg: "Viva Las Vegas",
+    saluti: "HELLO VUE",
     img: "assets/img/greggio.jpg"
   }
 })
